@@ -14,8 +14,8 @@
 # Zeitplan
 
 | Datum  |Fortschritt    | Fortschritt |
-| ------:|:-------------:|:-----------:|
-|        |Erstellung Github Repository||
+| ------:|:-------------|:-----------:|
+|25.02.2021|Erstellung Github Repository||
 |        |Teambildung                 ||
 |        |               |             |
 |        |               |             |
