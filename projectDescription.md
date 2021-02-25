@@ -1,22 +1,26 @@
 # Überblick
 
-# Ziele und Nichtziele
+## Ziele und Nichtziele
+### Ziele
+-
 
-# Themenbeschreibung
+### Nicht Ziele
 
-# Verwendete Technologien
+## Themenbeschreibung
 
-# Teamzusammensetzung
+## Verwendete Technologien
+
+## Teamzusammensetzung
 - Moritz Eder (Projektleiter)
 - Niklas Pühringer
 - Angela Blaha
  
-# Zeitplan
+## Zeitplan
 
-| Datum  |Fortschritt    | Fortschritt |
-| ------:|:-------------|:-----------:|
-|25.02.2021|Erstellung Github Repository </br> Teambildung ||
-|        |                ||
-|        |               |             |
-|        |               |             |
+| Datum  |Meilenstein    | 
+| ------:|:-------------|
+|25.02.2021|Erstellung Github Repository </br> Teambildung |
+|        |                |
+|        |               |             
+|        |               |             
 
